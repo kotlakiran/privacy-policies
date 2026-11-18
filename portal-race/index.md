@@ -57,6 +57,6 @@ online services.
 
 ## Contact
 
-For privacy or deletion requests, use the verified support contact shown on
-the Portal Race Google Play listing. The listing contact is the authoritative
-support address for this app.
+For privacy or deletion requests, email kiran.kotla90@gmail.com. To delete
+an online account and its data, follow the steps on the
+[account deletion page](delete-account/).

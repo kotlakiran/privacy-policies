@@ -77,4 +77,6 @@ required for security, fraud prevention, or legal obligations.
 
 ## 7. Contact
 
-**Email:** support@neontrails.app
+**Email:** kiran.kotla90@gmail.com
+
+To delete an online account and its data, follow the steps on the [account deletion page](delete-account/).

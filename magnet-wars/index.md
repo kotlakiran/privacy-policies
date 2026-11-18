@@ -68,5 +68,6 @@ the account. We will verify the request before processing it.
 
 ## Contact
 
-**Email:** support@magnetwars.com
+**Email:** kiran.kotla90@gmail.com
 
+To delete an online account and its data, follow the steps on the [account deletion page](delete-account/).
